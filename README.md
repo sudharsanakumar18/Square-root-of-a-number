@@ -27,8 +27,7 @@ print("Square root of the number:",newton(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-
+![image](https://raw.githubusercontent.com/sudharsanakumar18/Square-root-of-a-number/main/python%202b.png)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
